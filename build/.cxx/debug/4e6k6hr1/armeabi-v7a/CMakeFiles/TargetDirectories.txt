@@ -1,0 +1,2 @@
+/home/user/myapp/build/.cxx/debug/4e6k6hr1/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/user/myapp/build/.cxx/debug/4e6k6hr1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
